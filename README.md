@@ -2,7 +2,7 @@
 
 This is an Xcode inspired, light theme for Vim.
 
-The theme does require [true color](https://gist.github.com/XVilka/8346728) support, and the only way I know of getting true color support in Vim, is by using [Neovim](https://github.com/neovim/neovim).
+The theme does require [true color](https://gist.github.com/XVilka/8346728) support, and the only way I know of getting true color support in Vim is by using [Neovim](https://github.com/neovim/neovim).
 
 Screenshots:
 
